@@ -6,4 +6,3 @@ var findMedianSortedArrays = function(nums1, nums2) {
     return (mergedArray[mergedArray.length/2] + mergedArray[(mergedArray.length/2) - 1])/2
 };
 
-console.log(findMedianSortedArrays([1,2], [3]))
